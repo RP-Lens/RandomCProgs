@@ -2,7 +2,6 @@
 
 <h2>This folder contains two (WIP on 3) versions of my (super awesome epic) fibonacci algorithm.</h2>
 
-<h3>manyFib</h3>
 The first version, manyFib, will print the entire sequence up to the number requested.
 For example, giving an input of 5 will print the following:
 <ul>
